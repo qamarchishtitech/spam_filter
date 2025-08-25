@@ -1,1 +1,1 @@
-print("hello world im qamarr")
+print("hello world im qamar")
